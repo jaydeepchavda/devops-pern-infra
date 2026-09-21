@@ -45,3 +45,4 @@ Then to run the frontend:
 cd client
 npm run dev
 ```
+## API Health Check: GET /api/health
